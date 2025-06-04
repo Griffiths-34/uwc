@@ -68,4 +68,4 @@ jobs:
         with:
           app-name: 'RfpAnalyser'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_10304ABFA68E46D2B05844085DC5693B }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_9E2B53C51A674A1E986FE5DC6B14709F }}
